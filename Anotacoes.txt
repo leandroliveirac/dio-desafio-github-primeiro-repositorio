@@ -1,0 +1,5 @@
+Criar repositório no GITHUB
+Atualizar o arquivo Readme
+Clonar repositório remoto para um repositório local
+Commit das autalizações 
+enviar atualizações para repositório remoto (push)
